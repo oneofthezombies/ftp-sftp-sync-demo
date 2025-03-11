@@ -1,1 +1,1 @@
-# multiplatform-game
+# multiplatform-native-app
