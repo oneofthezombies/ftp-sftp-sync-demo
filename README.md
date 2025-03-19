@@ -1,1 +1,1 @@
-# Multiplatform App C++
+# FTP/SFTP Sync Demo
